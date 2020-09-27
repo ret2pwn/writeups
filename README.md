@@ -1,2 +1,2 @@
 # writeups
-You can find some writeups for CTF challenges I have completed. I will also include the challenge perserved in a Docker container if you want to try this on your own.
+You can find some writeups for CTF challenges I have completed. I will also include the challenge perserved in a Docker container if you want to try them on your own.
