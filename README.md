@@ -1,6 +1,6 @@
 # writeups
-You can find some writeups for CTF challenges I have completed.
+You can find some writeups for CTF challenges I have completed. If you have any question about my solution, or have a better solution to these challenges that you are willing to share, email me at return2pwn@gmail.com
+
 Each folder will include the following:
   1. Detailed word document on the steps I took during the challenge, with screenshots.
-  2. The exploit script I wrote to solve the challenge
-  3. Another folder with the files needed to make a docker image for the challenge, and start a container.
+  2. All challenge files (binary, my script to solve it, libc file, etc)
