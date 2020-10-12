@@ -1,0 +1,7 @@
+This section is for reverse engineering challenges. To get started with these, I would suggest the following tools:
+ 1. Ghidra, which is an open source product from the NSA that is a competitor to IDA pro
+ 2. Gef, which is an add on to GDB, you can find more information here: https://github.com/hugsy/gef
+ 3. Pwntools, which is a python library that makes exploit development for CTFs easier. It can be installed with pip: "pip install pwntools".
+ 
+ 
+ 
