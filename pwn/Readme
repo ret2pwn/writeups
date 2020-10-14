@@ -1,2 +1,18 @@
 This section will hold writeups for pwn challenges I have completed. If you have questions about my solution, or have a better solution to any of these, feel free to email 
 me at return2pwn@gmail.com
+
+To get started in this category, I would recommend the following videos/books:
+  pwn.college, which is asu's cse466 course that was released for free for fall 2020. https://pwn.college/
+  Liveoverflow's youtube channel, he has a playlist of Binary Exploitation videos: https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w
+  Hacking: the art of exploitation 2nd edition, written by Jon Erickson
+  
+Recommended wargames:
+  pwnable.kr
+  pwnable.tw
+  Exploit-education protostar VM (which is what Liveoverflow's series is based on)
+  
+Recommended tools:
+  pwntools python library (can be installed with pip)
+  Ghidra, IDA pro, Binary ninja, or any similar product
+  Gef or pwndbg add-ons for GDB
+  
